@@ -2,3 +2,9 @@ Zum installieren der Haskell Plattform unter Debian führen Sie folgendes
 Kommando aus:
 
 > aptitude install haskell-platform
+
+
+Zum deinstallieren führen Sie folgendes Kommandao aus:
+
+> aptitude remove haskell-platform
+
